@@ -1,12 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "WorldManagementPlugin",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f72c8626d8f445c5a4fdb9440b04f597"
 		}
 	]
 }
